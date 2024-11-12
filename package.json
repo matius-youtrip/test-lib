@@ -8,7 +8,7 @@
   },
   "publishConfig": {
     "@matius-youtrip:registry": "https://npm.pkg.github.com"
-  }
+  },
   "author": "",
   "license": "ISC"
 }
